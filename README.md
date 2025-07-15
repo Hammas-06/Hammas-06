@@ -1,5 +1,6 @@
 ## Hi there 👋
-add tiny-pete-pete-buttigeig.gif
+![tiny-pete-pete-buttigieg](https://github.com/user-attachments/assets/6ac886b6-db2b-4546-a690-5e81b1e6958e)
+
 <!--
 **Hammas-06/Hammas-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
